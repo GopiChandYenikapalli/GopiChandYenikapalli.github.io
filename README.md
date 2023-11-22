@@ -1,2 +1,2 @@
 # GopiChandYenikapalli.github.io
-Portfolio website https://gopichandyenikapalli.github.io/
+Portfolio website: https://gopichandyenikapalli.github.io/
